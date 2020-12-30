@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I' Max</h1>
 
-<!--
-**jsonbruce/jsonbruce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Open Source enthusiast, Software Engineer from China</h3>
 
-Here are some ideas to get you started:
+- :office: I'm currently working at [SmartMore](https://github.com/smartmore)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :pencil: I regulary write articles on [https://atmax.io](https://atmax.io)
+
+- :speech_balloon: Communicate with me on [Issue Page](https://github.com/jsonbruce/jsonbruce/issues)
+
+<h2>GitHub Stats</h2>
+
+<table style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=jsonbruce&show_icons=true" /></td>
+    <td align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonbruce&langs_count=8&layout=compact" /></td>
+  </tr>
+</table>
