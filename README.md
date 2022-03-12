@@ -6,7 +6,7 @@
 
 - :pencil: I regulary write articles on [https://atmax.io](https://atmax.io)
 
-- :speech_balloon: Communicate with me on [Discussions](https://github.com/jsonbruce/jsonbruce/discussions)
+- :speech_balloon: Communicate with me on [Discussions](https://github.com/maxsxu/maxsxu/discussions)
 
 <h2>GitHub Stats</h2>
 
