@@ -2,7 +2,7 @@
 
 <h3 align="center">Open Source enthusiast, Software Engineer from China</h3>
 
-- :office: I'm currently working at [SmartMore](https://github.com/smartmore)
+- :office: I'm currently working at [StreamNative](https://github.com/streamnative)
 
 - :pencil: I regulary write articles on [https://atmax.io](https://atmax.io)
 
@@ -12,7 +12,7 @@
 
 <table style="border: none;">
   <tr style="border: none;">
-    <td align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=jsonbruce&show_icons=true" /></td>
-    <td align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonbruce&langs_count=8&layout=compact" /></td>
+    <td align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=maxsxu&show_icons=true" /></td>
+    <td align="center" style="border: none;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsxu&langs_count=8&layout=compact" /></td>
   </tr>
 </table>
